@@ -91,10 +91,6 @@ temperature-data-analyzer/
 
 <img width="1000" height="400" alt="Graph" src="https://github.com/user-attachments/assets/428dced0-c900-4946-bb27-90bf0a76433a" />
 
-```markdown
-![Temperature Graph](images/graph.png)
-```
-
 ---
 
 ## Future Improvements
