@@ -80,8 +80,7 @@ temperature-data-analyzer/
 ├── temperature_data_analyzer.py
 ├── Stats.txt
 ├── Alarm Report.txt
-├── images/
-│   └── Graph.png
+├── Graph.png
 └── README.md
 ```
 
