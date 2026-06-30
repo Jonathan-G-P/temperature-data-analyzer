@@ -1,0 +1,7 @@
+Stats
+Average=29.072°C
+Highest temperature: 
+08:51->42.0°C
+Lowest temperature: 
+08:00->24.5°C
+Standard deviation=4.536
